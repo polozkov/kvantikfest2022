@@ -1,6 +1,9 @@
 # kvantikfest2022
 Фестиваль Журнала "Квантик" в Москве в Новой Школе 29 октября 2022 года
 
+Web-страница с описанием моих проектов
+https://polozkov.github.io/kvantikfest2022/
+
 Нова Школа:
 https://home.n.school/
 
